@@ -1,0 +1,2 @@
+# Codetalks-App
+REACT-NATİVE-CODETALKS-PROJECT
